@@ -1,4 +1,4 @@
 # demo
 This is my first repository
 <br>
-Author - Harshini Bhat
+Author - Harshini Bhat(jango)
